@@ -37,6 +37,7 @@ public class GameService {
                 count++;
             }
         }
+
         return count;
     }
 
